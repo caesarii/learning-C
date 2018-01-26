@@ -31,16 +31,37 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="D:/qing-game/axe1/1/GuaList.c">
+		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="D:/qing-game/axe1/1/GuaList.h" />
-		<Unit filename="D:/qing-game/axe1/1/GuaTest.c">
+		<Unit filename="testcharpointer.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="testcomprehension.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="D:/qing-game/axe1/1/GuaTest.h" />
-		<Unit filename="D:/qing-game/axe1/1/main.c">
+		<Unit filename="testexpr.c">
 			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="testfuncitonpointer.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="testpointer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="testprintf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teststruct.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="tomorrow.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
 			<code_completion />
